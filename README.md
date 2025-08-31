@@ -21,9 +21,9 @@ This project demonstrates how to use **Flexbox** to align elements like a logo, 
 1. Clone the repository
 
    
-   git clone https://github.com/mariya-taksali/nav-bar.git
+   git clone https://github.com/MariyaTaksali/nav-bar.git
    
-2. Open `index.html` in your browser.
+3. Open `index.html` in your browser.
 
 
 
